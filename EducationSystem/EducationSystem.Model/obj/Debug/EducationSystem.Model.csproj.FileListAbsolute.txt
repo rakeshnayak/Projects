@@ -1,0 +1,8 @@
+D:\Projects\EducationSystem\EducationSystem.Model\bin\Debug\EducationSystem.Model.dll
+D:\Projects\EducationSystem\EducationSystem.Model\bin\Debug\EducationSystem.Model.pdb
+D:\Projects\EducationSystem\EducationSystem.Model\obj\Debug\EducationSystem.Model.dll
+D:\Projects\EducationSystem\EducationSystem.Model\obj\Debug\EducationSystem.Model.pdb
+C:\Users\RAKESH\Dropbox\Projects\EducationSystem\EducationSystem.Model\bin\Debug\EducationSystem.Model.dll
+C:\Users\RAKESH\Dropbox\Projects\EducationSystem\EducationSystem.Model\bin\Debug\EducationSystem.Model.pdb
+C:\Users\RAKESH\Dropbox\Projects\EducationSystem\EducationSystem.Model\obj\Debug\EducationSystem.Model.dll
+C:\Users\RAKESH\Dropbox\Projects\EducationSystem\EducationSystem.Model\obj\Debug\EducationSystem.Model.pdb
